@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Week 1 Study Plan (4/18 - 4/22)
 
 ## Monday
