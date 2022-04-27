@@ -16,8 +16,10 @@ Here are the test corrections:
 
 **Q5** - new Bird constructors
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/55414361/165573927-3f402d2a-d0b5-4181-9524-4aa684d59a3e.png">
-My Answer: <img width="345" alt="image" src="https://user-images.githubusercontent.com/55414361/165574025-9b4ed108-a841-4549-9291-93b51d95b090.png">
-Right Answer:<img width="290" alt="image" src="https://user-images.githubusercontent.com/55414361/165574111-96bc741c-0543-45e2-a3a4-568e69059330.png">
+My Answer: 
+<img width="345" alt="image" src="https://user-images.githubusercontent.com/55414361/165574025-9b4ed108-a841-4549-9291-93b51d95b090.png">
+Right Answer:
+<img width="290" alt="image" src="https://user-images.githubusercontent.com/55414361/165574111-96bc741c-0543-45e2-a3a4-568e69059330.png">
 Explanation: The reason that this is the right answer is because you can't have two constructors with the same exact definitions. If we did, then the computer wouldn't know which constructor to run, which would cause a compilation error. Therefore, E is the right answer because it is exactly the same as the original constructor. 
 
 # Week 1
