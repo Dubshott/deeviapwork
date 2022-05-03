@@ -1,18 +1,42 @@
 {% include navigation.html %}
 
 Template:
+
 **Q**
+
 My Answer:
+
 Right Answer:
+
 Explanation: 
 
 # Test Corrections
 
 Here are the test corrections:
 
+<img width="1264" alt="image" src="https://user-images.githubusercontent.com/55414361/166507611-8cbdea53-5262-4e7b-baff-e3a9e2db0548.png">
+
 # Week 2
 
+Top 3 Misses!
 
+**Q38**
+
+My Answer: I only
+
+Right Answer: I and II
+
+Explanation: II would also make sense because we need to logically follow through the program and I needed to fill in one ore block of code but I failed to do that. 
+
+**Q19** - sum array elements
+
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/55414361/166507237-e06c2f00-3f26-46c8-8bcd-5c6768090559.png">
+
+My Answer: 7
+
+Right Answer: 26
+
+Explanation: This makes the most sense because it is a double array. We need to factor in all of theses questions and folow through the process thaht it lines out for us
 
 **Q5** - new Bird constructors
 
